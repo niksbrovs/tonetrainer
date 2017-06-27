@@ -1,0 +1,3 @@
+tonetrainerIntent tone trainer
+tonetrainerIntent hello tone trainer
+tonetrainerIntent open tone tone trainer
